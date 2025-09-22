@@ -12,7 +12,7 @@ MiniDjango is a simple Python web framework for learning purposes. You can use i
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/dipan121003/minidjango-framework.git
    cd MiniDjango/minidjango_project
    ```
 
